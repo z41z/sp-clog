@@ -1,5 +1,5 @@
 {
-  "name": "sp-log",
+  "name": "sp-clog",
   "version": "1.0.0",
   "description": "log for JavaScript.",
   "main": "index.js",
